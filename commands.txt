@@ -2,4 +2,4 @@ git config --global user.name "sanketh-hacknomous"
 git config --global user.email "4mt23cs169@gmail.com"
 
 
-git clone "repository link"
+git clone "https://github.com/sanketh-hacknomus/HACKNOMOUS.git"
